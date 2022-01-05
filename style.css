@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+}
+.top-banner {
+  display: flex;
+  background-color: #242830;
+  height: 700px;
+}
+.half-width {
+  width: 50%;
+  margin-left: 5%;
+  padding-left: 5%;
+}
+
+h1 {
+  color: white;
+  font-size: 46px;
+}
+p {
+  color: white;
+}
+.half-width img {
+  width: 100%;
+}
+.half-width p{
+    margin-bottom:70px;
+}
+img.logo {
+  width: 50px;
+}
+a.first-button {
+  text-decoration: none;
+  color: white;
+  background-color: #097dea;
+  padding: 20px 40px;
+}
+a.second-button {
+    text-decoration: none;
+    color: white;
+    background-color: #FF30A1;
+    padding: 20px 40px;
+    margin-left:20px
+}
